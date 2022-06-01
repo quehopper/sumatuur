@@ -1,0 +1,11 @@
+Welcome to CleanTokens101 :)
+#Info
+ - Make sure to create an https://infura.io/ ETH project and copy the infura ID and put it on line 2 in settings.js
+ - Make sure to create a https://moralis.io/ account and copy your Web3 API key and put it on line 3 in settings.js
+ - Now simply put in your wallet adres on line 1 in settings.js and watch the magic happen.
+
+The code is fully commented so that you'll know what does what.
+
+For any questions dm @infernoma | on telegram or Inferno#6151 on discord.
+
+Enjoy :)
